@@ -43,7 +43,7 @@ const Quotes = () => {
                             <img src={twitterIcon} alt="" />
                         </span>
                     </a>
-                    <a href="#" id="tumlr-quote">
+                    <a href="https://www.tumblr.com/" id="tumlr-quote">
                         <span>
                             <img src={tumblrIcon} alt="" />
                         </span>
